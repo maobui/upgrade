@@ -1,5 +1,9 @@
 [
   {
+    "packagename": "com.me.bui.hear",
+    "version": "106"
+  },
+  {
     "packagename": "com.me.bui.paper",
     "version": "105"
   }
