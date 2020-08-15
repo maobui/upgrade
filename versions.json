@@ -10,5 +10,9 @@
   {
     "packagename": "com.me.bui.wifieasy",
     "version": "113"
+  },
+  {
+    "packagename": "com.me.bui.codetodrawing",
+    "version": "105"
   }
 ]
