@@ -50,7 +50,7 @@
     }
   ],
   "start_url": "./index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#12355B",
   "background_color": "#ffffff"
 }
